@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(to bottom right, #6600cc 0%, #ff66cc 80%);
+}
+
+video {
+    width: 720px;
+    height: 480px;
+}
